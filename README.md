@@ -1,6 +1,6 @@
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/gabibits/gabibits-obsidian/main/img/printscreen.png" width="100">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/gabibits/gabibits-obsidian/main/printscreen(2).png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/gabibits/gabibits-obsidian/main/printscreen(3).png">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/gabibits/gabibits-obsidian/main/img/printscreen.png" width="100">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/gabibits/gabibits-obsidian/main/img/printscreen(2).png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/gabibits/gabibits-obsidian/main/printscreen(3).png">|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/gabibits/gabibits-obsidian/main/printscreen(4).png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/gabibits/gabibits-obsidian/main/printscreen(5).png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/gabibits/gabibits-obsidian/main/img/printscreen(6).png">|
 
 
