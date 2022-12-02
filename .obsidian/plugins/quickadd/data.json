@@ -1,0 +1,147 @@
+{
+  "choices": [
+    {
+      "id": "b9c62fec-d971-430c-a791-28789f9b81b2",
+      "name": "Adicionar Nota",
+      "type": "Template",
+      "command": true,
+      "templatePath": "obsidian/templates/Nota - template",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "anotacoes"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "preview"
+    },
+    {
+      "id": "59385447-f092-4a05-9bde-3b1654e24009",
+      "name": "Adicionar Projeto",
+      "type": "Template",
+      "command": true,
+      "templatePath": "obsidian/templates/Novo Projeto - template",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "obsidian/projetos"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "preview"
+    },
+    {
+      "id": "1257f267-38fe-441d-893b-639aad10100c",
+      "name": "Adicionar Curso",
+      "type": "Template",
+      "command": true,
+      "templatePath": "obsidian/templates/Novo Curso - template",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "obsidian/cursos"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "preview"
+    },
+    {
+      "id": "0e68a4c7-c990-4c13-8e5e-8818dd731e40",
+      "name": "Adicionar Livro",
+      "type": "Template",
+      "command": true,
+      "templatePath": "obsidian/templates/Livro - template",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "obsidian/livros"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "preview"
+    },
+    {
+      "id": "f98e43a2-eec5-4b38-9d58-2ef94374715c",
+      "name": "Adicionar snippet",
+      "type": "Template",
+      "command": true,
+      "templatePath": "obsidian/templates/Snippet - template",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "obsidian/snippets"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "preview"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false
+}

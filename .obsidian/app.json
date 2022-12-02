@@ -1,0 +1,15 @@
+{
+  "communityThemeSortOrder": "download",
+  "legacyEditor": false,
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "readableLineLength": true,
+  "communityPluginSortOrder": "download",
+  "spellcheckLanguages": [
+    "pt-BR",
+    "en-US"
+  ],
+  "attachmentFolderPath": "attachments"
+}

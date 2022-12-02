@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "3bb12d470fcd0291",
+    "type": "split",
+    "children": [
+      {
+        "id": "48bf23842d613080",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Topics.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64e5df844da43397",
+    "type": "split",
+    "children": [
+      {
+        "id": "404b714244a12346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7408259d9b92b5f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "42aa1a006d235dd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "home",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22d0a714d8c44711",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244
+  },
+  "right": {
+    "id": "61191f8ea8fb7606",
+    "type": "split",
+    "children": [
+      {
+        "id": "4294f9e389e0008a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b2117ed5f68ad5a",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328
+  },
+  "active": "48bf23842d613080",
+  "lastOpenFiles": [
+    "00. pessoal/obsidian/Homepages/00. Homepage.md",
+    "ReadItLater Inbox/Tweet from zanfranceschi (2022-10-06 15-18-45).md",
+    "ReadItLater Inbox/Tweet from Sebastien Lorber • ⚛️ ThisWeekInReact.com 📨 (2022-10-06 15-16-49).md",
+    "ReadItLater Inbox/Tweet from дэн (2022-10-06 15-15-08).md",
+    "Untitled.md",
+    "asymptotic notations.md",
+    "reactjs/lazy loading.md",
+    "reactjs/Context.md",
+    "reactjs/class components.md",
+    "reactjs/Conditonal rendering.md"
+  ]
+}

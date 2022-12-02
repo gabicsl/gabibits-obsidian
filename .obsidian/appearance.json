@@ -1,0 +1,14 @@
+{
+  "enabledCssSnippets": [
+    "【边栏图标】sidepane file title icon",
+    "dashboard",
+    "tags",
+    "dataview-table"
+  ],
+  "cssTheme": "",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "accentColor": ""
+}

@@ -1,0 +1,22 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#e0dfec",
+      "directory": "00. pessoal/calendario/faculdade"
+    },
+    {
+      "type": "local",
+      "color": "#c3c2ff",
+      "directory": "obsidian/calendário/pessoal"
+    },
+    {
+      "type": "local",
+      "color": "#dbdeff",
+      "directory": "obsidian/calendário"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": true,
+  "firstDay": 1
+}
